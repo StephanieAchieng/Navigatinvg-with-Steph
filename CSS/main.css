@@ -1,0 +1,96 @@
+body{
+background-color:#e67870;
+color:#222;*/
+font-family: Arial,Helvetica,sans-serif;
+ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjrza2Hl5m5XBiDheTIAqc27yt6-VcNxyV6Q&usqp=CAU);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+}
+header{
+background-color: #333;
+}
+header nav{
+max-width: 1200px;
+margin: 0 auto;
+}
+header nav ul{
+padding: 0;
+margin:0;
+overflow: auto;
+}
+header nav ul li{
+list-style: none;
+float:right;
+}
+header nav ul li a{
+color: #ccc;
+padding: 20px;
+float:right;
+font-size: 14px;
+text-decoration: none;
+}
+header nav ul li a:hover{
+color: cyan;
+}
+
+.container{
+color: #080404;
+max-width: 1200px;
+margin:0 auto;
+}
+.conte h1{
+padding: 0;
+margin: 0;
+}
+footer{
+font-size: 12px;
+text-align: center;
+padding: 50px 0;
+color:#fff;
+}
+
+body{
+    font-family:sans-serif;
+    color:#777777;
+    line-height:26px;
+    align:center;
+}
+ .purple-color{
+    color:#8845f4;
+ }
+ .half-width{
+     width:50%;
+     float:left;
+ }
+ .side-img{
+     width:50%;
+     padding-left:25%;
+ }
+ .primary-btn{
+     color:white;
+     background-color:#8845f4;
+     padding:13px 42px;
+     border-radius:20px;
+     text-decoration:none;
+ }
+ h1{
+     font-size:2.5em;
+ }
+ .container{
+     padding-left:5%;
+     display:block;
+ }
+ .experiences{
+     padding:30px;
+     margin:30px;
+     background-color:white;
+     border-radius:20px;    
+ }
+ .experience-item{
+     padding:10px;
+     border-left:1px solid rgba(137,130,247,.2);
+ }
